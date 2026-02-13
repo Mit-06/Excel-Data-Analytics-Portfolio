@@ -201,6 +201,3 @@ Mitali Padave
 <br>
 
 ---
-
- **Project completed as part of data analytics portfolio — February 202
-⭐ If you found this project helpful, please consider giving it a star!
